@@ -80,7 +80,7 @@ steps:
         echo $branch
 
         case "$branch" in
-            "master")
+            "updatepipeline")
                 slot="alpha"
                 ;;
             "beta")
