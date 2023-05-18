@@ -1,0 +1,19 @@
+<section class="ms-font-m">
+	<div>
+		<iframe width="800" height="800" frameborder="0"
+			src="https://www.bing.com/maps/embed?h=800&w=800&cp=15.284185114076422~105.8203125&lvl=2&typ=d&sty=h&src=SHELL&FORM=MBEDV8"
+			scrolling="no">
+		</iframe>
+		<div style="white-space: nowrap; text-align: center; width: 800px; padding: 6px 0;">
+			<a id="largeMapLink" target="_blank"
+				href="https://www.bing.com/maps?cp=15.284185114076422~105.8203125&amp;sty=h&amp;lvl=2&amp;FORM=MBEDLD">View
+				Larger Map</a> &nbsp; | &nbsp;
+			<a id="dirMapLink" target="_blank"
+				href="https://www.bing.com/maps/directions?cp=15.284185114076422~105.8203125&amp;sty=h&amp;lvl=2&amp;rtp=~pos.15.284185114076422_105.8203125____&amp;FORM=MBEDLD">Get
+				Directions</a>
+		</div>
+	</div>
+</section>
+<button id="run" class="ms-Button">
+    <span class="ms-Button-label">Add text box</span>
+</button>
